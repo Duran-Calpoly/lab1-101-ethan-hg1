@@ -9,7 +9,3 @@ def add_tax(bill_total):
 def greet_user(name):
     return "Hello " + name
 #greets user
-
-assert(calculate_average(3, 4, 5), 4)
-assert(add_tax(10), 11)
-assert(greet_user("Ethan"), "Hello Ethan")
